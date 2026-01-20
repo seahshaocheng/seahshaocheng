@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seahshaocheng A.K.A Mark Seah
 - 🏠 I am based in Singapore 🇸🇬
-- 💼 I am working as an implementation manager at Adyen
+- 💼 By official title I am an implementation manager at Adyen but I predominantly serves as a pre/post-sales solutions architect in my projects. 
 - 🤔 I'm interested in techs in the payments and unified commerce space
 - 👀 I’m interested in API development, integration and front end development
 - 🌱 I’m am working on my skills in ReactJS, NodeJS, Android and IOS development
